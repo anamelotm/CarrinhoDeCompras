@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;900&display=swap');
+
+footer {
+    height: 100px;
+    width: 90%;
+    margin: auto;
+    background-color: #F2F2F2;
+    color: black;
+    font-family: 'Roboto', sans-serif;
+    color: #A6654E;
+    font-size: 0.8em;
+}
+p {
+    padding: 10px;
+    margin: 0px;
+    max-width: 400px;
+}
+
+.icon {
+    width: 30px;
+    position: relative;
+    left: 70%;
+    bottom: 15%;
+    margin: 10px;
+    cursor: pointer;
+}
+
+.icon:hover{
+    box-shadow: 3px 2px 16px rgba(0, 0, 0, 0.548);
+}

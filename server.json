@@ -1,0 +1,46 @@
+{
+    "produtos": [
+        {
+            "id": 1,
+            "photo": "https://cdn.dooca.store/1028/products/9uhn3cmolcnu8jmmmrexvzofyqstnusslceo_640x640+fill_ffffff.png?v=1596718051&webp=0",
+            "name": "Kit Mini Band",
+            "description": "Kit com 3 faixas elásticas para exercício.",
+            "price": "R$ 60,00"
+        },
+        {
+            "id": 2,
+            "photo": "https://www.lojavirtualphysicus.com.br/content/images/thumbs/0006098_halter-1k-emborrachado_600.jpeg",
+            "name": "Halter 10Kg",
+            "description": "Par de halter 5kg emborrachado.",
+            "price": "R$ 20,00"
+        },
+        {
+            "id": 3,
+            "photo": "https://img.irroba.com.br/fit-in/600x600/filters:fill(fff):quality(95)/equipame/catalog/kit-halteres-de-1-a-5kg-emborrachados-5-pares/kit-halteres-de-1-a-5kg-emborrachados-5-pares-d-nq-np-739397-mlb32856489353-112019-f20191112150429.jpg",
+            "name": "Kit halter de 1 a 5Kg",
+            "description": "Kit com 5 pares de halter emborrachado.",
+            "price": "R$ 100,00"
+        },
+        {
+            "id": 4,
+            "photo": "https://a-static.mlcdn.com.br/618x463/corda-pular-com-rolamento-treino-funcional-speed-7167-mbfit/badmintonstore/312985a8e1e011ea98254201ac18501e/dfe0924d3f1a360621870cc3c3099fcc.jpg",
+            "name": "Corda de pular com rolamento",
+            "description": "Corda de pular em PVC, cabo com rolamento.",
+            "price": "R$ 30,00"
+        },
+        {
+            "id": 5,
+            "photo": "https://static.netshoes.com.br/produtos/par-caneleira-tornozeleira-kl-master-fitness-peso-3-kg/06/ETE-0101-006/ETE-0101-006_zoom3.jpg?ts=1625480041&ims=544x",
+            "name": "Caneleira tornozeleira 3Kg",
+            "description": "Caneleiras feitas com nylon reforçado.",
+            "price": "R$ 50,00"
+        },
+        {
+            "id": 6,
+            "photo": "https://img.irroba.com.br/filters:fill(transparent):quality(95)/klmaster/catalog/caneleira-courvin/kit-caneleira-2-3-5-kg.png",
+            "name": "Kit caneleiras Tornozeleiras",
+            "description": "Kit com 3 caneleiras feitas em Courvin reforçado, de 1,3 a 5Kg.",
+            "price": "R$ 140,00"
+        }
+    ]
+}
